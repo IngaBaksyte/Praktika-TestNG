@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-20T22:18:27 EET" name="Default Suite" finished-at="2024-03-20T22:18:33 EET" duration-ms="6570">
+    <groups>
+    </groups>
+    <test started-at="2024-03-20T22:18:27 EET" name="PraktikaTestNG" finished-at="2024-03-20T22:18:33 EET" duration-ms="6570">
+      <class name="CalculatorTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:CalculatorTest@69fb6037]" started-at="2024-03-20T22:18:27 EET" name="setup" finished-at="2024-03-20T22:18:28 EET" duration-ms="1415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="userRegistrationPositive()[pri:1, instance:CalculatorTest@69fb6037]" started-at="2024-03-20T22:18:28 EET" name="userRegistrationPositive" finished-at="2024-03-20T22:18:29 EET" duration-ms="622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userRegistrationPositive -->
+        <test-method signature="userRegistrationNegative()[pri:2, instance:CalculatorTest@69fb6037]" started-at="2024-03-20T22:18:29 EET" name="userRegistrationNegative" finished-at="2024-03-20T22:18:29 EET" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userRegistrationNegative -->
+        <test-method signature="userLoginNegative()[pri:3, instance:CalculatorTest@69fb6037]" started-at="2024-03-20T22:18:29 EET" name="userLoginNegative" finished-at="2024-03-20T22:18:29 EET" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLoginNegative -->
+        <test-method signature="userLoginPositive()[pri:4, instance:CalculatorTest@69fb6037]" started-at="2024-03-20T22:18:29 EET" name="userLoginPositive" finished-at="2024-03-20T22:18:30 EET" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLoginPositive -->
+        <test-method signature="createOperationPositive()[pri:5, instance:CalculatorTest@69fb6037]" started-at="2024-03-20T22:18:30 EET" name="createOperationPositive" finished-at="2024-03-20T22:18:30 EET" duration-ms="399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOperationPositive -->
+        <test-method signature="createOperationNegative()[pri:6, instance:CalculatorTest@69fb6037]" started-at="2024-03-20T22:18:30 EET" name="createOperationNegative" finished-at="2024-03-20T22:18:30 EET" duration-ms="338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOperationNegative -->
+        <test-method signature="searchOperationPositive()[pri:7, instance:CalculatorTest@69fb6037]" started-at="2024-03-20T22:18:30 EET" name="searchOperationPositive" finished-at="2024-03-20T22:18:31 EET" duration-ms="301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchOperationPositive -->
+        <test-method signature="searchOperationNegative()[pri:8, instance:CalculatorTest@69fb6037]" started-at="2024-03-20T22:18:31 EET" name="searchOperationNegative" finished-at="2024-03-20T22:18:31 EET" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchOperationNegative -->
+        <test-method signature="editOperationPositive()[pri:9, instance:CalculatorTest@69fb6037]" started-at="2024-03-20T22:18:31 EET" name="editOperationPositive" finished-at="2024-03-20T22:18:32 EET" duration-ms="684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editOperationPositive -->
+        <test-method signature="editOperationNegative()[pri:10, instance:CalculatorTest@69fb6037]" started-at="2024-03-20T22:18:32 EET" name="editOperationNegative" finished-at="2024-03-20T22:18:33 EET" duration-ms="961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editOperationNegative -->
+        <test-method signature="deleteOperationPositive()[pri:11, instance:CalculatorTest@69fb6037]" started-at="2024-03-20T22:18:33 EET" name="deleteOperationPositive" finished-at="2024-03-20T22:18:33 EET" duration-ms="351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteOperationPositive -->
+        <test-method signature="deleteOperationNegative()[pri:12, instance:CalculatorTest@69fb6037]" started-at="2024-03-20T22:18:33 EET" name="deleteOperationNegative" finished-at="2024-03-20T22:18:33 EET" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteOperationNegative -->
+        <test-method is-config="true" signature="close()[pri:0, instance:CalculatorTest@69fb6037]" started-at="2024-03-20T22:18:33 EET" name="close" finished-at="2024-03-20T22:18:33 EET" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- CalculatorTest -->
+    </test> <!-- PraktikaTestNG -->
+  </suite> <!-- Default Suite -->
+</testng-results>
